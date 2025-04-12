@@ -1,5 +1,4 @@
 # Retail_Analysis_Dashboard
-# Retail Analytics Dashboard
 
 ## Overview
 
